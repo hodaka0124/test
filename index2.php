@@ -1,5 +1,5 @@
 <?php
 
-print 'hodaka0124';
+print 'adline0124';
 
 ?>
