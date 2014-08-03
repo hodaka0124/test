@@ -1,5 +1,5 @@
 <?php
 
-print 'hodaka0125';
+print 'index';
 
 ?>

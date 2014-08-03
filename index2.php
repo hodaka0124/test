@@ -1,5 +1,5 @@
 <?php
 
-print 'adline0124';
+print 'index2';
 
 ?>
