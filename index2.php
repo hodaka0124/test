@@ -1,8 +1,5 @@
 <?php
 
-print '4';
-print '5';
-print '6';
+print 'hodaka0124';
 
-print '7';
 ?>
