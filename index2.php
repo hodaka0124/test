@@ -1,5 +1,5 @@
 <?php
 
-print 'index2';
+print 'index222';
 
 ?>
